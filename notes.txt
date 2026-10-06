@@ -1,0 +1,7 @@
+created empty repo in git hub 
+cloned to local "git clone"
+added few files in the repo "touch command"
+edited the files in vs code 
+added the changes "git add"
+commit the changes "git commit -m""
+push the code to git hub
